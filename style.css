@@ -1,0 +1,64 @@
+body{
+	text-align:	center;
+	background-color:	#FFFFFF;
+	font-family:	sans-serif;
+}
+h1{
+	color:	#888888;
+}
+h1.mobile{
+	color:	#888888;
+	font-size:	32pt;
+}
+h2{
+	color:	#888888;
+}
+h3{
+	color:	#777777;
+}
+p{
+	color:	#777777;
+	font-size:	11pt;
+}
+a{
+	color:	#444444;
+}
+li{
+	color:	#666666;
+}
+canvas.mobile{
+	-webkit-tap-highlight-color:rgba(0,0,0,0);
+}
+.title{
+	line-height:	1em;
+}
+.topcontents{
+	text-align: left;
+}
+.contents{
+	text-align:	left;
+}
+.centering{
+	text-align:	center;
+}
+.titlelink{
+	text-decoration:	none;
+}
+.icon{
+	border-style:	none;
+}
+.etclink{
+	color:	#333333;
+	font-size:	11pt;
+	border-style:	none;
+	text-decoration:	none;
+	line-height:	1.5em;
+}
+.gotop{
+	text-align:	center;
+}
+.notice{
+	background-color:	#EEEEEE;
+	color:	#444444;
+	font-size:	10pt;
+}
